@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TransparentImageViewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_btn_image_select_name">이미지 선택</string>
+    <string name="main_btn_finish_name">종료</string>
+    <string name="trasparent_image">trasparent_image</string>
+    <string name="transparent_close_btn">닫기</string>
+</resources>
